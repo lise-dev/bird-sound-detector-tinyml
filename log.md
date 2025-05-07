@@ -4,21 +4,7 @@ This file contains my personal log during the internship. I use it to track my d
 
 ---
 
-## May 5, 2025
-
-### What I did
-- Read the BirdNET research paper
-- Visited the campus and met the team
-
-### Issues
-- None
-
-### Questions
-- None
-
----
-
-## May 6, 2025 
+## May 5, 2025 
 
 ### What I did
 - Read most of the BirdNET paper (v2.4)
@@ -32,8 +18,6 @@ This file contains my personal log during the internship. I use it to track my d
 - None
 
 --- 
-
-## May 6, 2025 
 
 ## May 6, 2025
 
@@ -51,6 +35,24 @@ This file contains my personal log during the internship. I use it to track my d
 - None
 
 --- 
+
+## May 7, 2025
+
+### What I did
+- Created and cleaned up the project repository on GitHub
+- Defined the structure: README, log.md, dataset/, docs/
+- Created GitHub issues for Phase 1 with sub-issues 
+- Set up milestones and assigned planning dates (May 5–29)
+- Linked relevant documents (BirdNET paper, datasheet, schematics) to issues
+- Wrote daily logs 
+
+### Issues
+- Some GitHub features (milestones, issue linking) were confusing at first but are now clear
+
+### Questions
+- None
+
+---
 
 ## MM dd, 2025 
 
