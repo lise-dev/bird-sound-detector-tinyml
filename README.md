@@ -9,11 +9,13 @@ Build a lightweight AI model that can identify bird species from their vocalizat
 
 ## Current Structure
 
+```
 root/
 ├── dataset/ # Audio files and labels
 ├── docs/ # Files for GitHub Pages (presentation, report)
 ├── README.md # Project overview
 ├── log.md # Daily or weekly progress notes
+```
 
 ## Timeline
 
