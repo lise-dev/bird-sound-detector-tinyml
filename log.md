@@ -54,6 +54,84 @@ This file contains my personal log during the internship. I use it to track my d
 
 ---
 
+## May 8, 2025
+
+### What I did
+-
+
+### Issues
+- 
+
+### Questions
+- None
+
+---
+
+## May 12, 2025
+
+### What I did
+-
+
+### Issues
+- 
+
+### Questions
+- None
+
+---
+
+## May 13, 2025
+
+### What I did
+-
+
+### Issues
+- 
+
+### Questions
+- None
+
+---
+
+## May 14, 2025
+
+### What I did
+-
+
+### Issues
+- 
+
+### Questions
+- None
+
+---
+
+## May 15, 2025
+
+### What I did
+-
+
+### Issues
+- 
+
+### Questions
+- None
+
+---
+
+## May 16, 2025
+
+### What I did
+-
+
+### Issues
+- 
+
+### Questions
+- None
+
+---
+
 ## MM dd, 2025 
 
 ### What I did
